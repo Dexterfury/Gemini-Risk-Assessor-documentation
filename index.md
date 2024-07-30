@@ -53,3 +53,7 @@ Gemini Risk Assessor is more than just a safety app – it's your AI-powered saf
 For inquiries, please contact:
 Raphael Daka
 Email: raphaelsquared@gmail.com or dexterfury101@icloud.com
+
+---
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](LICENSE.md).
