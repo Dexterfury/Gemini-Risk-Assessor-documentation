@@ -43,7 +43,7 @@ Raphael Daka
 
 ## License
 
-[Include your chosen license information here]
+This documentation is licensed under the [Creative Commons Attribution 4.0 International License](LICENSE.md).
 
 ## Acknowledgments
 
