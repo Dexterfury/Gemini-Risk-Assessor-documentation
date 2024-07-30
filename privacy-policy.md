@@ -45,3 +45,7 @@ Name: Raphael Daka
 Email: raphaelsquared@gmail.com or dexterfury101@icloud.com
 
 By using the Gemini Risk Assessor app, you agree to the collection and use of information in accordance with this policy.
+
+---
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](LICENSE.md).
