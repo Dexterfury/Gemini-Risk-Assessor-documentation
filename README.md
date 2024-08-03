@@ -7,10 +7,9 @@ Gemini Risk Assessor is an innovative AI-powered mobile application designed to 
 ## Features
 
 - AI-powered risk assessments
-- Daily Safety Task Instructions (DSTI) creation
 - Smart tools explainer
 - Near miss reporting
-- Organization and group management
+- Group management
 - Interactive AI quizzes
 - AI-powered group chats
 - PDF report generation
